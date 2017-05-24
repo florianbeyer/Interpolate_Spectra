@@ -12,8 +12,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 ## working directories
-load_path = 'C:/Users/LenoFlo/Google Drive/A001_BERUFLICH/20170517_Daniel/'
-save_path = 'C:/Users/LenoFlo/Google Drive/A001_BERUFLICH/20170517_Daniel/'
+load_path = 'C:/path/'
+save_path = 'C:/path/'
 
 # read all files in a directory
 onlyfiles = [f for f in listdir(load_path) if isfile(join(load_path, f))]
