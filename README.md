@@ -5,4 +5,4 @@ script to interpolate (linear) between reflectance values
 
 ---
 
-questions: mail@flobeyer.tk
+questions: mail@flobeyer.de
